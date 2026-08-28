@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her" 
   bio              : "Computational biologist, microbiome enthusiast, and public health student"
   location         : "Chicago, IL"
-  employer         : "University of Chicago"
+  employer         : #"University of Chicago"
   uri              : # URL
   email            : "shreya23@uchicago.edu" 
 
