@@ -1,0 +1,227 @@
+{
+  "basics": {
+    "name": "Shreya L. Ramachandran",
+    "email": "shreya23@uchicago.edu",
+    "phone": "(408) 888-0917",
+    "website": "https://shreyaramachandran.github.io",
+    "summary": "Computational biologist, metagenomics specialist, and Fulbright alumna with a proven record of leading international, multidisciplinary infectious disease and microbiome research with diverse communities. Postdoctoral Fellow and MPH student (Epidemiology and Global Health) at the University of Chicago.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Chicago",
+      "countryCode": "US",
+      "region": "IL"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "shreyaramachandran",
+        "url": "https://github.com/shreyaramachandran"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Chicago",
+      "position": "Postdoctoral Fellow",
+      "website": "",
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "summary": "Supported by TL1 Fellowship in Clinical Research, Biomedical Informatics, and Health Equity (NIH/NCATS); studying the evolution of Fusobacterium nucleatum and its association with colorectal cancer epidemiology.",
+      "highlights": []
+    },
+    {
+      "company": "Universidad Nacional Autónoma de México",
+      "position": "Fulbright-García Robles Researcher",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Studied the genomic history of Afro-Mexicans and shared results with participants from marginalized communities.",
+      "highlights": []
+    },
+    {
+      "company": "Stanford Department of Psychiatry / VA Palo Alto",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2017",
+      "summary": "Conducted neurocognitive and sleep assessments; served as Spanish interpreter for participant families.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Chicago",
+      "area": "Epidemiology and Global Health",
+      "studyType": "M.P.H.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Chicago",
+      "area": "Human Genetics, Computational Track",
+      "studyType": "Ph.D.",
+      "startDate": "",
+      "endDate": "2026-02",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Stanford University",
+      "area": "Biology",
+      "studyType": "M.S.",
+      "startDate": "",
+      "endDate": "2017",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Stanford University",
+      "area": "Biology, Minor in Spanish",
+      "studyType": "B.S.H.",
+      "startDate": "",
+      "endDate": "2016",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "R",
+      "level": "Expert"
+    },
+    {
+      "name": "Unix",
+      "level": "Expert"
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "Expert"
+    },
+    {
+      "name": "Python",
+      "level": "Proficient"
+    },
+    {
+      "name": "Java",
+      "level": "Proficient"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Working knowledge"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Working knowledge"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Working knowledge"
+    },
+    {
+      "language": "French",
+      "fluency": "Working knowledge"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Distinct trajectories of urbanization shape the human gut microbiome across South Asia",
+      "publisher": "Gut Microbes, 18(1), 2700042",
+      "releaseDate": "2026-07-14",
+      "website": "https://doi.org/10.1080/19490976.2026.2700042",
+      "summary": "Ramachandran SL, Pasupuleti N, Abdill RJ, et al. Presents SAMBAR, a population-scale 16S gut microbiome study of 575 South Asian adults."
+    },
+    {
+      "name": "Bacteriocin acquisition in Streptococcus mutans in pre-colonial Chile",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Ramachandran SL, de la Fuente C, et al."
+    },
+    {
+      "name": "A Genetic History of Noli, Italy (7th to the 15th centuries)",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Moots HM, ..., Ramachandran SL, Raghavan M."
+    },
+    {
+      "name": "Facilitating accessible, rapid, and appropriate processing of ancient metagenomic data with AMDirT",
+      "publisher": "F1000Research, 12:926",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.12688/f1000research.134798.1",
+      "summary": "Borry M, Forsythe A, ..., Ramachandran SL, et al."
+    },
+    {
+      "name": "Community-curated and standardised metadata of published ancient metagenomic samples with AncientMetagenomeDir",
+      "publisher": "Scientific Data, 8, 31",
+      "releaseDate": "2021",
+      "website": "https://doi.org/10.1038/s41597-021-00816-y",
+      "summary": "Fellows Yates JA, Andrades Valtueña A, Vågene ÅJ, ..., Ramachandran SL, et al."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Introduction to Microbiome Research (Spanish)",
+      "event": "Ciencia y Comunidades community engagement workshop",
+      "date": "2023-12-01",
+      "location": "Villarrica, Chile",
+      "description": ""
+    },
+    {
+      "name": "Ancient Pathogen Genomics",
+      "event": "Neubauer Collegium Workshop on Genomes, Migrations, and Culture in the Early Civilizations of the Middle East",
+      "date": "2023-11-01",
+      "location": "Chicago, IL, USA",
+      "description": ""
+    },
+    {
+      "name": "Characterizing the cariogenic bacterium Streptococcus mutans in ancient Chile",
+      "event": "Scientific Applications in South Asian Archaeology Conference",
+      "date": "2022-12-01",
+      "location": "Nagaland, India",
+      "description": "Lightning talk"
+    },
+    {
+      "name": "The evolution of the gut microbiome during the transition to agriculture",
+      "event": "Molecular Biosciences Retreat, University of Chicago",
+      "date": "2019-10-01",
+      "location": "Chicago, IL, USA",
+      "description": "Lightning talk; awarded Best Lightning Talk, Molecular Biosciences Department Conference"
+    },
+    {
+      "name": "A Genomic Screen for Evidence of Pathogens in Ancient Indian Samples",
+      "event": "Scientific Applications in South Asian Archaeology Conference",
+      "date": "2019-07-01",
+      "location": "Leh, India",
+      "description": "Lightning talk"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Human Genetics (graduate); Human Genetics and Evolution (undergraduate)",
+      "institution": "University of Chicago",
+      "date": "2019-2024",
+      "role": "Teaching Assistant",
+      "description": ""
+    },
+    {
+      "course": "Academic & Professional Writing (undergraduate, two terms)",
+      "institution": "University of Chicago",
+      "date": "2019-2024",
+      "role": "Teaching Assistant",
+      "description": ""
+    }
+  ],
+  "portfolio": []
+}
