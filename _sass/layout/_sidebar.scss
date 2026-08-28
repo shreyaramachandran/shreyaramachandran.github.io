@@ -160,7 +160,7 @@
     @include breakpoint($large) {
       padding: 4px;
       border: 3px solid transparent;
-      background: linear-gradient(135deg, #648fff, #dc267f, #fe6100, #ffb000) border-box;
+      background: linear-gradient(135deg, #dc267f, #648fff, #fe6100, #ffb000) border-box;
       -webkit-mask:
         linear-gradient(#fff 0 0) padding-box,
         linear-gradient(#fff 0 0);
@@ -196,7 +196,7 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
-  color: #648fff;
+  color: #dc267f;
 }
 
 .sidebar .author__desktop {

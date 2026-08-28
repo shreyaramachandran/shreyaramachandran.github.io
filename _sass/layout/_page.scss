@@ -37,7 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
-  color: #648fff;
+  color: #dc267f;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -52,13 +52,13 @@
 .page__content {
 
   h1 {
-    color: #648fff;
+    color: #dc267f;
   }
 
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 3px solid transparent;
-    border-image: linear-gradient(90deg, #648fff, #dc267f, #fe6100, #ffb000);
+    border-image: linear-gradient(90deg, #dc267f, #648fff, #fe6100, #ffb000);
     border-image-slice: 1;
   }
 
